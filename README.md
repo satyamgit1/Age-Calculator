@@ -1,6 +1,6 @@
 # Age Calculator using JavaScript
 
-# [Live Demo](https://age-calculator-sm.netlify.app/)
+# [Live Demo](https://age-calculator-ten-vert.vercel.app/)
 
 ## Overview
 
@@ -27,13 +27,13 @@ Follow these steps to get the Age Calculator up and running on your local machin
 1. Clone the repository to your local machine using the following command:
 
    ```
-   git clone https://github.com/yourusername/Age-Calculator-using-JS.git
+   git clone https://github.com/yourusername/Age-Calculator
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd Age-Calculator-using-JS
+   cd Age-Calculator
    ```
 
 3. Open the `index.html` file in your web browser to launch the Age Calculator.
@@ -72,9 +72,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact us at [sujitmahapatra2506@gmail.com](mailto:sujitmahapatra2506@gmail.com).
+If you have any questions or feedback, feel free to contact us at [satyamsingh2003a@gmail.com]
 
 Thank you for using the Age Calculator using JavaScript!
 
 ---
-© 2023 Mr. Sujit
+© 2024 Satyam 
