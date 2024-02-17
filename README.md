@@ -6,7 +6,10 @@
 
 The Age Calculator using JavaScript is a simple web application that allows users to calculate their age based on their date of birth. This project is a great way to learn and practice basic JavaScript programming while creating a useful tool for calculating ages. 
 
-![](screenshot.png)
+<p align="center">
+  <img src="screenshot.png" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
 
 
 ## Features
