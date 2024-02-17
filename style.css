@@ -95,7 +95,7 @@ footer{
     left: 0;
     right: 0;
     bottom: 0;
-    width: auto;
+    width: 100%;
     position: absolute;
     background-position: calc(100% - 10px);
     background-size: 30px;
